@@ -16,6 +16,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/archana467/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
@@ -34,6 +35,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/archana467/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 ## Union-Find
@@ -48,6 +50,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/archana467/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
