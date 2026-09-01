@@ -6,6 +6,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archana467/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
@@ -40,6 +41,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
@@ -53,4 +55,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
