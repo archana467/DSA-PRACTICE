@@ -13,6 +13,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0560-subarray-sum-equals-k](https://github.com/archana467/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/archana467/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
