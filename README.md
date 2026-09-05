@@ -16,6 +16,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [3875-construct-uniform-parity-array-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archana467/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
