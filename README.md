@@ -65,6 +65,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -100,4 +101,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
