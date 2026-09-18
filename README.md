@@ -71,6 +71,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
