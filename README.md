@@ -70,6 +70,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/archana467/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
+| [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/archana467/DSA-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
@@ -93,6 +94,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Euclidean Algorithm
 |  |
