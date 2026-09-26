@@ -120,6 +120,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archana467/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/archana467/DSA-PRACTICE/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/archana467/DSA-PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -129,6 +130,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archana467/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/archana467/DSA-PRACTICE/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/archana467/DSA-PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
