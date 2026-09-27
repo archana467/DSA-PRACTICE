@@ -99,6 +99,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0009-palindrome-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/archana467/DSA-PRACTICE/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/archana467/DSA-PRACTICE/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
