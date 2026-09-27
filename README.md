@@ -90,6 +90,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/archana467/DSA-PRACTICE/tree/master/0504-base-7) |
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1859-sorting-the-sentence](https://github.com/archana467/DSA-PRACTICE/tree/master/1859-sorting-the-sentence) |
@@ -101,6 +102,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/archana467/DSA-PRACTICE/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/archana467/DSA-PRACTICE/tree/master/0319-bulb-switcher) |
+| [0504-base-7](https://github.com/archana467/DSA-PRACTICE/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
