@@ -99,6 +99,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0009-palindrome-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
+| [0319-bulb-switcher](https://github.com/archana467/DSA-PRACTICE/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -237,4 +238,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/archana467/DSA-PRACTICE/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
