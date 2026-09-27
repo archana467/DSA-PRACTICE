@@ -123,6 +123,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
+| [0868-binary-gap](https://github.com/archana467/DSA-PRACTICE/tree/master/0868-binary-gap) |
 ## Simulation
 |  |
 | ------- |
