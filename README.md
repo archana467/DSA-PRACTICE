@@ -17,6 +17,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0454-4sum-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archana467/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/0912-sort-an-array) |
@@ -74,6 +75,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0324-wiggle-sort-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/archana467/DSA-PRACTICE/tree/master/1859-sorting-the-sentence) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
@@ -110,6 +112,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,6 +171,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0134-gas-station](https://github.com/archana467/DSA-PRACTICE/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0334-increasing-triplet-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
@@ -220,4 +224,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0334-increasing-triplet-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
