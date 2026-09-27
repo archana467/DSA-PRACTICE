@@ -12,6 +12,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0209-minimum-size-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/archana467/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0324-wiggle-sort-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
@@ -166,6 +167,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0134-gas-station](https://github.com/archana467/DSA-PRACTICE/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0334-increasing-triplet-subsequence) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
@@ -214,4 +216,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0324-wiggle-sort-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
