@@ -25,6 +25,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0912-sort-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/archana467/DSA-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -45,6 +46,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0560-subarray-sum-equals-k](https://github.com/archana467/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/archana467/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -84,6 +86,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0611-valid-triangle-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/archana467/DSA-PRACTICE/tree/master/1859-sorting-the-sentence) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
@@ -98,6 +101,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1859-sorting-the-sentence](https://github.com/archana467/DSA-PRACTICE/tree/master/1859-sorting-the-sentence) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3498-reverse-degree-of-a-string](https://github.com/archana467/DSA-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
