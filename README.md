@@ -7,6 +7,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archana467/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/archana467/DSA-PRACTICE/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
@@ -36,6 +37,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/archana467/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0454-4sum-ii) |
@@ -75,6 +77,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0324-wiggle-sort-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -87,6 +90,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/archana467/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
