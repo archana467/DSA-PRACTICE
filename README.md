@@ -107,6 +107,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1859-sorting-the-sentence](https://github.com/archana467/DSA-PRACTICE/tree/master/1859-sorting-the-sentence) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/archana467/DSA-PRACTICE/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
 | [3498-reverse-degree-of-a-string](https://github.com/archana467/DSA-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
