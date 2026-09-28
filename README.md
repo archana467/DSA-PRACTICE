@@ -20,6 +20,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0560-subarray-sum-equals-k](https://github.com/archana467/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0611-valid-triangle-number) |
+| [0706-design-hashmap](https://github.com/archana467/DSA-PRACTICE/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/0912-sort-an-array) |
@@ -44,6 +45,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0454-4sum-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archana467/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/archana467/DSA-PRACTICE/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -267,4 +269,16 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/archana467/DSA-PRACTICE/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/archana467/DSA-PRACTICE/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/archana467/DSA-PRACTICE/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
