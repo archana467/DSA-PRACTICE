@@ -47,6 +47,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/archana467/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -102,6 +103,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1859-sorting-the-sentence](https://github.com/archana467/DSA-PRACTICE/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
 | [3498-reverse-degree-of-a-string](https://github.com/archana467/DSA-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -115,6 +117,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
 | [3871-count-commas-in-range-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -211,6 +214,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
+| [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -255,4 +259,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/archana467/DSA-PRACTICE/tree/master/0319-bulb-switcher) |
+## Combinatorics
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
