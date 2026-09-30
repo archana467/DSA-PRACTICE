@@ -96,6 +96,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/0912-sort-an-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/archana467/DSA-PRACTICE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1657-determine-if-two-strings-are-close](https://github.com/archana467/DSA-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1859-sorting-the-sentence](https://github.com/archana467/DSA-PRACTICE/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -171,6 +172,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archana467/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/archana467/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/archana467/DSA-PRACTICE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/archana467/DSA-PRACTICE/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/archana467/DSA-PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -178,6 +180,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/archana467/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/archana467/DSA-PRACTICE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/archana467/DSA-PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -185,6 +188,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archana467/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/archana467/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/archana467/DSA-PRACTICE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/archana467/DSA-PRACTICE/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/archana467/DSA-PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
@@ -230,6 +234,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archana467/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/archana467/DSA-PRACTICE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Bubble Sort
 |  |
 | ------- |
