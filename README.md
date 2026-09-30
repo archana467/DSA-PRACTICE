@@ -29,6 +29,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/archana467/DSA-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2460-apply-operations-to-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/2460-apply-operations-to-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -152,6 +153,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0611-valid-triangle-number) |
+| [2460-apply-operations-to-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/2460-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
+| [2460-apply-operations-to-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/archana467/DSA-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
