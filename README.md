@@ -107,6 +107,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/archana467/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/archana467/DSA-PRACTICE/tree/master/0165-compare-version-numbers) |
@@ -285,6 +286,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/archana467/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -324,4 +326,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
