@@ -75,6 +75,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0611-valid-triangle-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/archana467/DSA-PRACTICE/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [2460-apply-operations-to-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/2460-apply-operations-to-an-array) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/archana467/DSA-PRACTICE/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -330,4 +332,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/archana467/DSA-PRACTICE/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 <!---LeetCode Topics End-->
