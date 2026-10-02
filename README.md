@@ -109,6 +109,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/archana467/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/archana467/DSA-PRACTICE/tree/master/0165-compare-version-numbers) |
@@ -208,6 +209,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -332,8 +334,13 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 ## Enumeration
 |  |
 | ------- |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/archana467/DSA-PRACTICE/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
