@@ -118,6 +118,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/archana467/DSA-PRACTICE/tree/master/0504-base-7) |
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
+| [0856-score-of-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/archana467/DSA-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/archana467/DSA-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -292,6 +293,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0856-score-of-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/archana467/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -335,6 +337,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 ## Enumeration
 |  |
 | ------- |
