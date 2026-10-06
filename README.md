@@ -26,6 +26,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/archana467/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/archana467/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/archana467/DSA-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -204,6 +205,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/archana467/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 ## Geometry
 |  |
 | ------- |
@@ -282,6 +284,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
+| [0994-rotting-oranges](https://github.com/archana467/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 ## Quickselect
 |  |
 | ------- |
