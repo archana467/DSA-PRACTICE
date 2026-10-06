@@ -32,6 +32,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/archana467/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/archana467/DSA-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1765-map-of-highest-peak](https://github.com/archana467/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2460-apply-operations-to-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/2460-apply-operations-to-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -212,6 +213,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0542-01-matrix](https://github.com/archana467/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/archana467/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/archana467/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
 ## Geometry
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/archana467/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/archana467/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/archana467/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
 ## Quickselect
 |  |
 | ------- |
