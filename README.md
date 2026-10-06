@@ -119,6 +119,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0504-base-7](https://github.com/archana467/DSA-PRACTICE/tree/master/0504-base-7) |
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/archana467/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/archana467/DSA-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/archana467/DSA-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -230,6 +231,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0334-increasing-triplet-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0611-valid-triangle-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/archana467/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/archana467/DSA-PRACTICE/tree/master/2864-maximum-odd-binary-number) |
@@ -294,6 +296,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0856-score-of-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/archana467/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/archana467/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -338,6 +341,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0020-valid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/archana467/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Enumeration
 |  |
 | ------- |
