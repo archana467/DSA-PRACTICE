@@ -118,6 +118,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/archana467/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/archana467/DSA-PRACTICE/tree/master/0165-compare-version-numbers) |
+| [0301-remove-invalid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/archana467/DSA-PRACTICE/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
@@ -293,6 +294,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/archana467/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/archana467/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/archana467/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
@@ -365,4 +367,5 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
