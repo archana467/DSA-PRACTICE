@@ -92,6 +92,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/archana467/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -194,6 +195,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0130-surrounded-regions](https://github.com/archana467/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
+| [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/archana467/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/archana467/DSA-PRACTICE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/archana467/DSA-PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -297,6 +299,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0301-remove-invalid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/archana467/DSA-PRACTICE/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/archana467/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1765-map-of-highest-peak](https://github.com/archana467/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
 ## Quickselect
@@ -368,4 +371,16 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | ------- |
 | [0022-generate-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0301-remove-invalid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
