@@ -127,6 +127,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0819-most-common-word](https://github.com/archana467/DSA-PRACTICE/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/archana467/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/archana467/DSA-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/archana467/DSA-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -318,6 +319,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0856-score-of-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/archana467/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/archana467/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0022-generate-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/archana467/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
 | ------- |
