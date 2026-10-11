@@ -38,6 +38,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [2460-apply-operations-to-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/2460-apply-operations-to-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/archana467/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -373,6 +374,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/archana467/DSA-PRACTICE/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Backtracking
 |  |
