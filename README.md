@@ -12,6 +12,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0130-surrounded-regions](https://github.com/archana467/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/archana467/DSA-PRACTICE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/archana467/DSA-PRACTICE/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/archana467/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/archana467/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0324-wiggle-sort-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0324-wiggle-sort-ii) |
@@ -96,6 +97,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/archana467/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/archana467/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -201,6 +203,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/archana467/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/archana467/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/archana467/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -220,6 +223,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/archana467/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/archana467/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/archana467/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/archana467/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
@@ -307,6 +311,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/archana467/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/archana467/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/archana467/DSA-PRACTICE/tree/master/0542-01-matrix) |
