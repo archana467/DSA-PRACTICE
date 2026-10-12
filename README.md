@@ -207,6 +207,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0404-sum-of-left-leaves](https://github.com/archana467/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/archana467/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1192-critical-connections-in-a-network](https://github.com/archana467/DSA-PRACTICE/tree/master/1192-critical-connections-in-a-network) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/archana467/DSA-PRACTICE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/archana467/DSA-PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -396,6 +397,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
+| [1192-critical-connections-in-a-network](https://github.com/archana467/DSA-PRACTICE/tree/master/1192-critical-connections-in-a-network) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -404,4 +406,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/archana467/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/archana467/DSA-PRACTICE/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/archana467/DSA-PRACTICE/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
