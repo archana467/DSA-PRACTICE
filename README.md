@@ -158,6 +158,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0507-perfect-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/archana467/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/archana467/DSA-PRACTICE/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
 | [2864-maximum-odd-binary-number](https://github.com/archana467/DSA-PRACTICE/tree/master/2864-maximum-odd-binary-number) |
@@ -242,6 +243,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0392-is-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/archana467/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1025-divisor-game](https://github.com/archana467/DSA-PRACTICE/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Euclidean Algorithm
 |  |
@@ -350,6 +352,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/archana467/DSA-PRACTICE/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/archana467/DSA-PRACTICE/tree/master/1025-divisor-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -417,4 +420,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/archana467/DSA-PRACTICE/tree/master/1192-critical-connections-in-a-network) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/archana467/DSA-PRACTICE/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/archana467/DSA-PRACTICE/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
