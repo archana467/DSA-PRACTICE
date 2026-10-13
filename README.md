@@ -43,6 +43,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [2778-sum-of-squares-of-special-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/archana467/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/archana467/DSA-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3903-smallest-stable-index-i) |
@@ -117,6 +118,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [2333-minimum-sum-of-squared-difference](https://github.com/archana467/DSA-PRACTICE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/archana467/DSA-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -264,6 +266,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/archana467/DSA-PRACTICE/tree/master/2864-maximum-odd-binary-number) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/archana467/DSA-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
