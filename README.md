@@ -162,6 +162,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2514-count-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/2514-count-anagrams) |
 | [2864-maximum-odd-binary-number](https://github.com/archana467/DSA-PRACTICE/tree/master/2864-maximum-odd-binary-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/archana467/DSA-PRACTICE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -268,6 +269,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/archana467/DSA-PRACTICE/tree/master/2864-maximum-odd-binary-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/archana467/DSA-PRACTICE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/archana467/DSA-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
