@@ -139,6 +139,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/archana467/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/archana467/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/archana467/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/archana467/DSA-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/archana467/DSA-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1859-sorting-the-sentence](https://github.com/archana467/DSA-PRACTICE/tree/master/1859-sorting-the-sentence) |
@@ -245,6 +246,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0542-01-matrix](https://github.com/archana467/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1025-divisor-game](https://github.com/archana467/DSA-PRACTICE/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Euclidean Algorithm
 |  |
@@ -430,4 +432,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/archana467/DSA-PRACTICE/tree/master/1025-divisor-game) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/archana467/DSA-PRACTICE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
