@@ -6,6 +6,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/archana467/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archana467/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -79,6 +80,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/archana467/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/archana467/DSA-PRACTICE/tree/master/0611-valid-triangle-number) |
@@ -276,6 +278,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/archana467/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archana467/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0324-wiggle-sort-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/archana467/DSA-PRACTICE/tree/master/0912-sort-an-array) |
