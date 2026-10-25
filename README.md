@@ -6,6 +6,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/archana467/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
@@ -52,6 +53,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/archana467/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/archana467/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
