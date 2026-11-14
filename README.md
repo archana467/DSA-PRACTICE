@@ -44,6 +44,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [2706-buy-two-chocolates](https://github.com/archana467/DSA-PRACTICE/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/archana467/DSA-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/archana467/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/archana467/DSA-PRACTICE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -77,6 +78,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0238-product-of-array-except-self](https://github.com/archana467/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archana467/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/archana467/DSA-PRACTICE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/archana467/DSA-PRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -98,6 +100,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode, Geek
 | [0424-longest-repeating-character-replacement](https://github.com/archana467/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/archana467/DSA-PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/archana467/DSA-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
